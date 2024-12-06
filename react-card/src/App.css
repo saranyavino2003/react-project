@@ -1,0 +1,49 @@
+.head{
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 13px;
+  left: 50px;
+  width: 80%;
+
+
+}
+.item{
+  color: white;
+  background-color:black;
+  text-align: center;
+}
+.nav{
+  position: relative;
+  display: flex;
+  left:50px;  justify-content: center;
+  width: 80%;
+  height: 40px;
+  border: 2px solid black;
+  justify-content: center;
+
+}
+.navc{
+  position: relative;
+  display: flex;
+  left:50px;  justify-content: center;
+  width: 80%;
+  height: 40px;
+  border: 2px solid black;
+  justify-content: center;
+}
+.header{
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 13px;
+  left: 50px;
+  width: 80%;
+
+}
+.items{
+  color: white;
+  background-color:black;
+  text-align: center;
+}
+
